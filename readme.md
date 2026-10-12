@@ -1,7 +1,7 @@
 # Marvel Characters
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshot/homepage.png)
 
 A website exploring Marvel heroes and villains.
 

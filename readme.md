@@ -1,4 +1,7 @@
 # Marvel Characters
+## Screenshots
+
+![Homepage](screenshots/homepage.png)
 
 A website exploring Marvel heroes and villains.
 
@@ -15,6 +18,3 @@ https://marvel-characters-bhov.vercel.app/
 - CSS
 - JavaScript
 
-## Screenshots
-
-![Homepage](screenshots/homepage.png)
